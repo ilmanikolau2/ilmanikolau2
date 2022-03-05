@@ -14,6 +14,7 @@
 
 :outbox_tray: 2022 Goals: create a new project.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilmanikolau2)](https://github.com/ilmanikolau2/github-readme-stats)
  
 
 ## About me
