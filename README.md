@@ -11,8 +11,7 @@
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
-
-:outbox_tray: 2022 Goals: create a new project.
+:outbox_tray: 2022 Goals: create new projects
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilmanikolau2&?count_private=true)](https://github.com/ilmanikolau2/github-readme-stats)
  -->
