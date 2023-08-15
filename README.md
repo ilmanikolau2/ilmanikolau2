@@ -8,9 +8,9 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning back end.
 
-:outbox_tray: 2022 Goals: create new projects
+:outbox_tray: 2023 Goals: create new projects
  
  <div style="display: inline_block"><br>
  
